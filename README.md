@@ -12,7 +12,7 @@ Checks for:
 4.Numbers
 5.Special symbols
 
-**##Classifies password strength as:
+**##Classifies password strength as:**
 
 1.**Strong**
 2.**Medium**
